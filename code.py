@@ -18,4 +18,5 @@ time.sleep(1)
 else:
 system32 = "gone"
 print("system32 is " + system32)
+break
 
